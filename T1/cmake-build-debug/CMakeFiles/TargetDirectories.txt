@@ -1,0 +1,3 @@
+C:/FAC A2/SEM 2/SDA/Teme suplimentare/ T1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/FAC A2/SEM 2/SDA/Teme suplimentare/ T1/cmake-build-debug/CMakeFiles/_T1.dir
+C:/FAC A2/SEM 2/SDA/Teme suplimentare/ T1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/FAC A2/SEM 2/SDA/Teme suplimentare/ T1/main.c
+conio.h
+-
+stdio.h
+-
+stdlib.h
+-
+
